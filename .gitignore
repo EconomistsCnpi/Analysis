@@ -8,3 +8,4 @@ venv
 
 # Ignorar arquivos de cache do SASS
 .sass-cache/
+files
